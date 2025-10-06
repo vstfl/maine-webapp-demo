@@ -1,0 +1,1 @@
+import{R as r}from"../chunks/CYgJF_JY.js";import{b as t}from"../chunks/DgMFZ4eX.js";function n(e,o){throw new r(e,o.toString())}new TextEncoder;const i=()=>{throw n(307,`${t}/tools/grip-regression`)},c=Object.freeze(Object.defineProperty({__proto__:null,load:i},Symbol.toStringTag,{value:"Module"}));export{c as universal};
